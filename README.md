@@ -1,6 +1,6 @@
 ## Hi there, I'm Disha!
 - A Passionate Creative Developer & Data Science Explorer.
-- Someone who loves mixing **design** with **code**!
+- Someone who loves mixing **design** with **code** 💫
 
 <!--
 **dishaborse/dishaborse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
